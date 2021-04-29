@@ -1,0 +1,60 @@
+﻿@model DevBlogs.Models.BlogIndexViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Blog/_BlogLayout.cshtml";
+}
+
+
+<div class="container-fluid">
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item active">Bloglarım</li>
+    </ol>
+    <div class="row">
+        @foreach (var blog in Model.Blogs)
+        {
+
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card border-0 shadow">
+                    <img src="~/UserFiles/Blogs/@blog.Id/BlogImage.jpg" class="card-img-top" />
+                    <div class="card-body">
+                        <div class="row" style="margin:0px auto 10px 0px">
+                            <div><h5 class="card-title mb-0">@blog.Title</h5></div>
+                        </div>
+                        <div class="row ml-1">
+                            <div><i class="fas fa-calendar-alt" style="color:gray"></i></div>
+                            <p class="text-muted ml-3 mb-0 ">Create: @blog.CreatedOn.ToLongDateString() </p>
+                        </div>
+                        <div class="row ml-1">
+                            <div><i class="fas fa-tag" style="color:gray"></i></div>
+                            <p class="text-muted ml-3 mb-0 ">Tag:  <span class="badge badge-secondary">   @blog.Tag </span></p>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <div class="col">
+                                <a asp-controller="Blog" asp-action="Detail" asp-route-id="@blog.Id" class="btn btn-primary  float-left">
+                                    <i class="fa fa-arrow-circle-right "></i>
+                                    Gör
+                                </a>
+                            </div>
+                            <div class="col">
+                                <a asp-controller="Blog" asp-action="Delete" asp-route-id="@blog.Id" class="btn btn-danger ">
+                                    <i class="fa fa-arrow-circle-right "></i>
+                                    Sil
+                                </a>
+                            </div>
+                            
+                            <div class="col">
+                                <a asp-controller="Blog" asp-action="Edit" asp-route-id="@blog.Id" class="btn btn-secondary  float-right">
+                                    
+                                    <i class="fas fa-pen"></i>
+                                    Düz
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,75 @@
+﻿@model EditBlogViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Blog/_CreateLayout.cshtml";
+}
+<div class="container">
+    <div class="container-fluid">
+        <h1 class="mt-4">Düzenle</h1>
+        <br />
+        <div class="row">
+            <div class="col-lg-12">
+                <form asp-controller="Blog" asp-action="Edit" method="post" enctype="multipart/form-data">
+                    <input asp-for="Blog.Id" readonly hidden />
+                    <div class="card mb-4">
+                        <div class="card-header">
+                            <i class="fas fa-pen-fancy mr-1"></i>
+                            Blogu düzenle
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label asp-for="BlogImage"></label>
+                                <div class="custom-file">
+                                    <input asp-for="BlogImage" class="custom-file-input" accept="image/*"  />
+                                    <label class="custom-file-label">Choose file</label>
+                                </div>
+                                <span asp-validation-for="BlogImage" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Blog.Title"> </label>
+                                <input asp-for="Blog.Title" class="form-control" required />
+                                <span asp-validation-for="Blog.Title" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Blog.Content"> </label>
+                                <textarea asp-for="Blog.Content" class="form-control textarea" rows="8"></textarea>
+                                <span asp-validation-for="Blog.Content" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Blog.Tag"> </label>
+                                <input asp-for="Blog.Tag" class="form-control" required />
+                                <span asp-validation-for="Blog.Tag" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <div class="form-group">
+                            @*<p class="text-muted">Publish Now or save</p>
+                                <label>Publish now?</label>
+                                <input type="checkbox" checked data-toggle="toggle" />*@
+                            <br />
+                            <button class="btn btn-primary" type="submit">Yayınla</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="https://cdn.ckeditor.com/ckeditor5/27.0.0/classic/ckeditor.js"></script>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('.textarea'))
+            .catch(error => {
+                console.error(error);
+
+            });
+        $(".custom-file-input").on("change", function () {
+            var fileName = $(this).val().split("\\").pop();
+            $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+        });
+    </script>
+
+}

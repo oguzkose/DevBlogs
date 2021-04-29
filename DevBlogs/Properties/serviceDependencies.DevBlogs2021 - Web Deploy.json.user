@@ -1,0 +1,30 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "DevBlogs2021.subscriptionId": {
+      "Name": "DevBlogs2021.subscriptionId",
+      "Type": "subscription",
+      "Value": "a37f972a-cf3c-47f5-8d66-b4075a70ef85"
+    },
+    "DevBlogs2021.resourceGroupLocation": {
+      "Name": "DevBlogs2021.resourceGroupLocation",
+      "Type": null,
+      "Value": "southcentralus"
+    },
+    "DevBlogs2021.resourceGroupName": {
+      "Name": "DevBlogs2021.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DevBlogs20210427131119ResourceGroup"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "a37f972a-cf3c-47f5-8d66-b4075a70ef85"
+    },
+    "DevBlogs2021.resourceName": {
+      "Name": "DevBlogs2021.resourceName",
+      "Type": null,
+      "Value": "DevBlogs2021"
+    }
+  }
+}

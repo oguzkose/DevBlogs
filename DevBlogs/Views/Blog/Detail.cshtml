@@ -1,0 +1,23 @@
+﻿@model BlogDetailViewModel
+@{
+
+    Layout = "~/Views/Blog/_DetailLayout.cshtml";
+    ViewData["HeaderImage"] = $"../../UserFiles/Blogs/{Model.Blog.Id}/BlogImage.jpg";
+    ViewData["HeaderTitle"] = Model.Blog.Title;
+    ViewData["Author"] = Model.Blog.Author.Nickname;
+    ViewData["Date"] = Model.Blog.CreatedOn;
+
+    
+
+    
+
+}
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                @Html.Raw(Model.Blog.Content)
+            </div>
+        </div>
+    </div>
+</article>
