@@ -1,14 +1,3 @@
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\bin\Debug\netcoreapp3.1\DevBlogs.Service.deps.json
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\bin\Debug\netcoreapp3.1\DevBlogs.Service.dll
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\bin\Debug\netcoreapp3.1\DevBlogs.Service.pdb
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\bin\Debug\netcoreapp3.1\DevBlogs.Data.dll
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\bin\Debug\netcoreapp3.1\DevBlogs.Data.pdb
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp3.1\DevBlogs.Service.AssemblyInfoInputs.cache
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp3.1\DevBlogs.Service.AssemblyInfo.cs
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp3.1\DevBlogs.Service.csproj.CoreCompileInputs.cache
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp3.1\DevBlogs.Service.csproj.CopyComplete
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp3.1\DevBlogs.Service.dll
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp3.1\DevBlogs.Service.pdb
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\bin\Debug\netcoreapp3.1\DevBlogs.Service.deps.json
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\bin\Debug\netcoreapp3.1\DevBlogs.Service.dll
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\bin\Debug\netcoreapp3.1\DevBlogs.Service.pdb
@@ -21,4 +10,3 @@ C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp3.1\DevBlogs.Service.csproj.CopyComplete
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp3.1\DevBlogs.Service.dll
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp3.1\DevBlogs.Service.pdb
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Debug\netcoreapp3.1\DevBlogs.Service.csproj.AssemblyReference.cache

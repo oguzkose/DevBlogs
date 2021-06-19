@@ -1,11 +1,3 @@
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Data\bin\Debug\netcoreapp3.1\DevBlogs.Data.deps.json
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Data\bin\Debug\netcoreapp3.1\DevBlogs.Data.dll
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Data\bin\Debug\netcoreapp3.1\DevBlogs.Data.pdb
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Data\obj\Debug\netcoreapp3.1\DevBlogs.Data.AssemblyInfoInputs.cache
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Data\obj\Debug\netcoreapp3.1\DevBlogs.Data.AssemblyInfo.cs
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Data\obj\Debug\netcoreapp3.1\DevBlogs.Data.csproj.CoreCompileInputs.cache
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Data\obj\Debug\netcoreapp3.1\DevBlogs.Data.dll
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Data\obj\Debug\netcoreapp3.1\DevBlogs.Data.pdb
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Data\bin\Debug\netcoreapp3.1\DevBlogs.Data.deps.json
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Data\bin\Debug\netcoreapp3.1\DevBlogs.Data.dll
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Data\bin\Debug\netcoreapp3.1\DevBlogs.Data.pdb
@@ -15,4 +7,3 @@ C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Data\obj\Debug\netcoreapp3.1
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Data\obj\Debug\netcoreapp3.1\DevBlogs.Data.dll
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Data\obj\Debug\netcoreapp3.1\DevBlogs.Data.pdb
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Data\obj\Debug\netcoreapp3.1\DevBlogs.Data.csprojAssemblyReference.cache
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Data\obj\Debug\netcoreapp3.1\DevBlogs.Data.csproj.AssemblyReference.cache
