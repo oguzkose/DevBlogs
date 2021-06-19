@@ -135,7 +135,6 @@ C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service.Test\bin\De
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service.Test\bin\Debug\netcoreapp3.1\DevBlogs.Service.dll
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service.Test\bin\Debug\netcoreapp3.1\DevBlogs.Service.pdb
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service.Test\bin\Debug\netcoreapp3.1\DevBlogs.Data.pdb
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service.Test\obj\Debug\netcoreapp3.1\DevBlogs.Service.Test.csprojAssemblyReference.cache
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service.Test\obj\Debug\netcoreapp3.1\DevBlogs.Service.Test.AssemblyInfoInputs.cache
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service.Test\obj\Debug\netcoreapp3.1\DevBlogs.Service.Test.AssemblyInfo.cs
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service.Test\obj\Debug\netcoreapp3.1\DevBlogs.Service.Test.csproj.CoreCompileInputs.cache
@@ -288,3 +287,4 @@ C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service.Test\obj\Debug\netco
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service.Test\obj\Debug\netcoreapp3.1\DevBlogs.Service.Test.dll
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service.Test\obj\Debug\netcoreapp3.1\DevBlogs.Service.Test.pdb
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service.Test\obj\Debug\netcoreapp3.1\DevBlogs.Service.Test.genruntimeconfig.cache
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service.Test\obj\Debug\netcoreapp3.1\DevBlogs.Service.Test.csproj.AssemblyReference.cache

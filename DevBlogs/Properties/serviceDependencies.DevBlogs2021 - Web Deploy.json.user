@@ -1,5 +1,10 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-04-29T10:28:14.7033839Z"
+    }
+  },
   "parameters": {
     "DevBlogs2021.subscriptionId": {
       "Name": "DevBlogs2021.subscriptionId",
@@ -11,20 +16,30 @@
       "Type": null,
       "Value": "southcentralus"
     },
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "a37f972a-cf3c-47f5-8d66-b4075a70ef85"
+    },
     "DevBlogs2021.resourceGroupName": {
       "Name": "DevBlogs2021.resourceGroupName",
       "Type": "resourceGroup",
       "Value": "DevBlogs20210427131119ResourceGroup"
     },
-    "subscriptionId": {
-      "Name": "subscriptionId",
-      "Type": "subscription",
-      "Value": "a37f972a-cf3c-47f5-8d66-b4075a70ef85"
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DefaultResourceGroup-CUS"
     },
     "DevBlogs2021.resourceName": {
       "Name": "DevBlogs2021.resourceName",
       "Type": null,
       "Value": "DevBlogs2021"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "a37f972a-cf3c-47f5-8d66-b4075a70ef85"
     }
   }
 }

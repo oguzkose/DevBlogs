@@ -409,7 +409,6 @@ C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\bin\Release\netcore
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\bin\Release\netcoreapp3.1\DevBlogs.Service.dll
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\bin\Release\netcoreapp3.1\DevBlogs.Data.pdb
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\bin\Release\netcoreapp3.1\DevBlogs.Service.pdb
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\obj\Release\netcoreapp3.1\DevBlogs.csprojAssemblyReference.cache
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\obj\Release\netcoreapp3.1\DevBlogs.AssemblyInfoInputs.cache
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\obj\Release\netcoreapp3.1\DevBlogs.AssemblyInfo.cs
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\obj\Release\netcoreapp3.1\DevBlogs.csproj.CoreCompileInputs.cache
@@ -916,3 +915,4 @@ C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs\obj\Release\netcoreapp3.1\De
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs\obj\Release\netcoreapp3.1\DevBlogs.dll
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs\obj\Release\netcoreapp3.1\DevBlogs.pdb
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs\obj\Release\netcoreapp3.1\DevBlogs.genruntimeconfig.cache
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\obj\Release\netcoreapp3.1\DevBlogs.csproj.AssemblyReference.cache
