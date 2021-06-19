@@ -1,4 +1,3 @@
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\obj\Debug\netcoreapp3.1\DevBlogs.csprojAssemblyReference.cache
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\obj\Debug\netcoreapp3.1\DevBlogs.AssemblyInfoInputs.cache
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\obj\Debug\netcoreapp3.1\DevBlogs.AssemblyInfo.cs
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\obj\Debug\netcoreapp3.1\DevBlogs.csproj.CoreCompileInputs.cache
@@ -916,3 +915,4 @@ C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs\obj\Debug\netcoreapp3.1\DevB
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs\obj\Debug\netcoreapp3.1\DevBlogs.dll
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs\obj\Debug\netcoreapp3.1\DevBlogs.pdb
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs\obj\Debug\netcoreapp3.1\DevBlogs.genruntimeconfig.cache
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs\obj\Debug\netcoreapp3.1\DevBlogs.csproj.AssemblyReference.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs\\DevBlogs.csproj": {}
+    "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs\\DevBlogs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj": {
+    "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj",
         "projectName": "DevBlogs.Data",
-        "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj",
+        "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj",
         "packagesPath": "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Data\\obj\\",
+        "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Service\\DevBlogs.Service.csproj": {
+    "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Service\\DevBlogs.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Service\\DevBlogs.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Service\\DevBlogs.Service.csproj",
         "projectName": "DevBlogs.Service",
-        "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Service\\DevBlogs.Service.csproj",
+        "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Service\\DevBlogs.Service.csproj",
         "packagesPath": "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Service\\obj\\",
+        "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -111,8 +111,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj": {
-                "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj"
+              "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj": {
+                "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj"
               }
             }
           }
@@ -147,7 +147,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs\\DevBlogs.csproj": {
+    "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs\\DevBlogs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs\\DevBlogs.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs\\DevBlogs.csproj",
         "projectName": "DevBlogs",
-        "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs\\DevBlogs.csproj",
+        "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs\\DevBlogs.csproj",
         "packagesPath": "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs\\obj\\publish\\win-x86\\",
+        "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs\\obj\\publish\\win-x86\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -183,11 +183,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj": {
-                "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj"
+              "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj": {
+                "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Data\\DevBlogs.Data.csproj"
               },
-              "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Service\\DevBlogs.Service.csproj": {
-                "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs.Service\\DevBlogs.Service.csproj"
+              "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Service\\DevBlogs.Service.csproj": {
+                "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs.Service\\DevBlogs.Service.csproj"
               }
             }
           }
@@ -256,15 +256,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-              "version": "[3.1.14, 3.1.14]"
+              "version": "[3.1.15, 3.1.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x86",
-              "version": "[3.1.14, 3.1.14]"
+              "version": "[3.1.15, 3.1.15]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-              "version": "[3.1.14, 3.1.14]"
+              "version": "[3.1.15, 3.1.15]"
             }
           ],
           "frameworkReferences": {
@@ -275,7 +275,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

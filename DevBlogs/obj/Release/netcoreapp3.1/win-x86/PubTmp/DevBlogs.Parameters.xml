@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="DevBlogs2021" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Oğuz\ KÖSE\\source\\repos\\DevBlogs\\DevBlogs\\obj\\Release\\netcoreapp3\.1\\win-x86\\PubTmp\\Out\\$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Oğuz\ KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs\\obj\\Release\\netcoreapp3\.1\\win-x86\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

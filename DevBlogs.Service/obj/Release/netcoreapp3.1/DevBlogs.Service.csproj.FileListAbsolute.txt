@@ -3,7 +3,6 @@ C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\bin\Release
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\bin\Release\netcoreapp3.1\DevBlogs.Service.pdb
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\bin\Release\netcoreapp3.1\DevBlogs.Data.dll
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\bin\Release\netcoreapp3.1\DevBlogs.Data.pdb
-C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Release\netcoreapp3.1\DevBlogs.Service.csprojAssemblyReference.cache
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Release\netcoreapp3.1\DevBlogs.Service.AssemblyInfoInputs.cache
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Release\netcoreapp3.1\DevBlogs.Service.AssemblyInfo.cs
 C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Release\netcoreapp3.1\DevBlogs.Service.csproj.CoreCompileInputs.cache
@@ -22,3 +21,4 @@ C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\obj\Release\netcorea
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\obj\Release\netcoreapp3.1\DevBlogs.Service.csproj.CopyComplete
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\obj\Release\netcoreapp3.1\DevBlogs.Service.dll
 C:\Users\Oğuz KÖSE\source\repos\DevBlogs\DevBlogs.Service\obj\Release\netcoreapp3.1\DevBlogs.Service.pdb
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\DevBlogs\DevBlogs.Service\obj\Release\netcoreapp3.1\DevBlogs.Service.csproj.AssemblyReference.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W+KucC8Pw2bJEsdjNK8BzhtgM3Ip2HUUoCAvHTeMFYIS9Ucr2IaUCDuUdDcaiHPgFvSemeNGBf6hgZgJM3geJg==",
+  "dgSpecHash": "cw1QYD73pBQoJaCr0ymvDQZM/cd5kLpSRGm84nl9Q69olQpQdg+0av6L0cu5MEvPyvc2f9BuI1gZpBEDQ4rhJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\DevBlogs\\DevBlogs\\DevBlogs.csproj",
+  "projectFilePath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\DevBlogs\\DevBlogs\\DevBlogs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\azure.core\\1.4.1\\azure.core.1.4.1.nupkg.sha512",
     "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\azure.extensions.aspnetcore.configuration.secrets\\1.0.0\\azure.extensions.aspnetcore.configuration.secrets.1.0.0.nupkg.sha512",
@@ -210,9 +210,9 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.14\\microsoft.netcore.app.runtime.win-x86.3.1.14.nupkg.sha512",
-    "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.14\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.14.nupkg.sha512",
-    "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.14\\microsoft.aspnetcore.app.runtime.win-x86.3.1.14.nupkg.sha512"
+    "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.15\\microsoft.netcore.app.runtime.win-x86.3.1.15.nupkg.sha512",
+    "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.15\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.15.nupkg.sha512",
+    "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.15\\microsoft.aspnetcore.app.runtime.win-x86.3.1.15.nupkg.sha512"
   ],
   "logs": []
 }
